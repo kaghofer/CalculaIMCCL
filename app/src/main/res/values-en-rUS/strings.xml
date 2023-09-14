@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculaIMCCL</string>
+    <string name="peso">Weight</string>
+    <string name="altura">Height</string>
+    <string name="imc">BMI</string>
+    <string name="etAltura">Height in inches</string>
+    <string name="btCalcular">Calculate</string>
+    <string name="etPeso_em_kg">Weight in pounds</string>
+    <string name="btLimpar">Clear</string>
+    <string name="n_o_pode_calcular_dividido_por_zero">Cannot calculate divided by Zero</string>
+    <string name="campo_deve_ser_preenchido">Must be filled out</string>
+</resources>
